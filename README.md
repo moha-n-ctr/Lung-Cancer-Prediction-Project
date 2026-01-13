@@ -1,3 +1,8 @@
+Lung Cancer Prediction Project
+
+
+
+
 This project aims to predict lung cancer using both image-based deep learning and text-based machine learning models. It compares the performance of these approaches using various evaluation metrics to identify the most effective solution.
 
 🧠 Approaches Used
